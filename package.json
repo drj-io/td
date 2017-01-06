@@ -1,0 +1,19 @@
+{
+  "name": "td",
+  "version": "0.0.1",
+  "description": "TD Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drj-io/td.git"
+  },
+  "author": "David Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drj-io/td/issues"
+  },
+  "homepage": "https://github.com/drj-io/td#readme"
+}
